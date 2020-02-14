@@ -1,0 +1,5 @@
+.DS_Store
+secret.txt
+
+#comment
+#*.txt will ignore all files with extension .txt
